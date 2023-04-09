@@ -74,3 +74,9 @@ while test == false:
         print("testing")
 
 # range(start, stop, step)
+
+def FUNC_NAME(name):
+    # Code goes here
+    print(name)
+
+
