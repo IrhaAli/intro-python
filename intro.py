@@ -72,3 +72,5 @@ print("Meet ", first_name, last_name, "who is ", age,
 while test == false:
     while test2 == false:
         print("testing")
+
+# range(start, stop, step)
