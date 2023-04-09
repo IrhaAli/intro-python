@@ -24,7 +24,7 @@ python_pro_web = "Is not what is in chat"
 # List (Array) & Dictionary (Map)
 
 
-# Print Statements 
+# Print Statements
 # print(WHAT YOU WANT TO PRINT)
 print("This is a string.")
 print("Printing strings need to be in quotes.")
@@ -66,5 +66,9 @@ last_name = input("What is your last name?\n")
 age = input("What is your age?\n")
 favourite_class = input("What is your favourite class?\n")
 
-print("Meet ", first_name, last_name, "who is ", age, "years old who enjoys", favourite_class, " class")
+print("Meet ", first_name, last_name, "who is ", age,
+      "years old who enjoys", favourite_class, " class")
 
+while test == false:
+    while test2 == false:
+        print("testing")
