@@ -79,4 +79,4 @@ def FUNC_NAME(name):
     # Code goes here
     print(name)
 
-
+# self is for ooj
